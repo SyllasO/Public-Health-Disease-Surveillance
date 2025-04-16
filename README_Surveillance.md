@@ -1,5 +1,5 @@
 
-# Public Health Disease Surveillance Architecture (End-to-End System)
+# Public Health Disease Surveillance Architecture
 
 ## Overview
 
